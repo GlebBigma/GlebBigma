@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+[![My Skills](https://skillicons.dev/icons?i=html,pug,css,scss,js,ts,react,redux,nextjs,vue,pinia,nuxtjs,npm,pnpm,yarn,vite,graphql,postman,tailwind,bootstrap,materialui,vuetify,git,github,bitbucket,figma,)](https://skillicons.dev)
 
 <!--
 **GlebBigma/GlebBigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
