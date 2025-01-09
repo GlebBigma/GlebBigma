@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,pug,css,scss,npm,pnpm,yarn,vite,graphql,postman,tailwind,bootstrap,materialui,vuetify,git,github,bitbucket,figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=html,pug,css,scss,npm,pnpm,yarn,vite,graphql,postman,tailwind,bootstrap,materialui,vuetify,git,github,bitbucket,figma)](https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)__
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,pinia,nuxtjs)](https://skillicons.dev)
 
 <!--
