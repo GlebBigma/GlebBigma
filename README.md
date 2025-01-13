@@ -1,7 +1,7 @@
 ## Hi! I'm Hlib Bihma, Front-End Developer
 
 ## Main Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,git)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,git)
 
 
 <!--
