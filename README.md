@@ -1,8 +1,8 @@
 ## Hi! I'm Hlib Bihma, Front-End Developer
 
 ## Main Skills
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,git)
-
+![Main Skills](https://skillicons.dev/icons?i=js,ts,react,vue,git)
+For a more detailed list of the technologies I use - please refer to my [online CV]([https://nuxt.com](https://glebbigma.github.io/portfolio_2/))
 
 <!--
 **GlebBigma/GlebBigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
