@@ -1,20 +1,18 @@
 ## Hi! I'm Hlib Bihma, Front-End Developer
 
-## Main Skills
+
+## 🚀 About Me
+Highly skilled and motivated Front-End Developer with experience in developing and maintaining websites and web applications.
+
+Passionate about creating user-friendly and efficient websites and web apps with perfect UI that provide exceptional user experiences.
+
+
+## 🛠 Main Skills
 ![Main Skills](https://skillicons.dev/icons?i=js,ts,react,vue,git)
-For a more detailed list of the technologies I use - please refer to my [online CV]([https://nuxt.com](https://glebbigma.github.io/portfolio_2/))
 
-<!--
-**GlebBigma/GlebBigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For a more detailed list of the technologies I use - please refer to my [online CV](https://glebbigma.github.io/portfolio_2/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+
+
