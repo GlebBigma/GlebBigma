@@ -1,17 +1,8 @@
-## Hi there 👋
+## Hi! I'm Hlib Bihma, Front-End Developer
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,pug,css,scss)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,pinia,nuxtjs)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=npm,pnpm,yarn,vite,graphql,postman)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,vuetify)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
+## Main Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,git)]
+
 
 <!--
 **GlebBigma/GlebBigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
