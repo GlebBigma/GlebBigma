@@ -12,4 +12,4 @@ Passionate about creating user-friendly and efficient websites and web apps with
 
 
 ## 🔗 Social Links
-[Online CV](https://glebbigma.github.io/portfolio_2/) | [LinkedIn](https://www.linkedin.com/in/bigma/)
+[LinkedIn](https://www.linkedin.com/in/bigma/)
