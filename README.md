@@ -10,8 +10,6 @@ Passionate about creating user-friendly and efficient websites and web apps with
 ## 🛠 Main Skills
 ![Main Skills](https://skillicons.dev/icons?i=js,ts,react,vue,git)
 
-For a more detailed list of the technologies I use - please refer to my [online CV](https://glebbigma.github.io/portfolio_2/)
-
 
 ## 🔗 Social Links
 [Online CV](https://glebbigma.github.io/portfolio_2/) | [LinkedIn](https://www.linkedin.com/in/bigma/)
